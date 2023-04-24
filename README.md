@@ -2,7 +2,14 @@
 
 Steam Achievement Scheduler is a user-friendly tool designed to enhance your gaming experience by scheduling the unlocking of Steam achievements at specified intervals. This program allows you to customize the intervals at which achievements are unlocked, providing a more enjoyable and personalized gaming journey.
 
-**Important: Always ensure that your use of Steam Achievement Scheduler complies with Steam's terms of service and the guidelines set by game developers. The program's developers do not endorse or promote any activities that violate these terms or rules.**
+**Disclaimer:
+
+The Steam Achievement Scheduler script is provided "as is" for educational and informational purposes only. By using this script, you agree to assume all risks and responsibilities associated with its use. The script's developers and contributors do not endorse, promote, or support any activities that violate Steam's terms of service, the guidelines set by game developers, or any applicable laws and regulations.
+
+It is your responsibility to ensure that your use of the Steam Achievement Scheduler script complies with all relevant terms, rules, and policies. The script's developers and contributors shall not be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, loss of use, data, or profits; or business interruption) resulting from the use, misuse, or inability to use the script, even if advised of the possibility of such damage.
+
+By using the Steam Achievement Scheduler script, you agree to indemnify, defend, and hold harmless the script's developers and contributors from and against any and all claims, losses, liability, costs, and expenses (including but not limited to attorneys' fees) arising from your violation of any applicable terms, rules, or policies, or any infringement by you or any other user of your account.
+**
 
 ## Features
 
