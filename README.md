@@ -30,7 +30,7 @@ By using the Steam Achievement Scheduler script, you agree to indemnify, defend,
 
 ## Usage
 
-1. Clone this repository or download the script file `unlock_achievements.py`.
+1. Clone this repository or download the script file `steam_achievement_scheduler.py`.
 2. Replace placeholders in the script with your actual Steam API key, Steam ID, and the desired game's App ID.
 3. Open a terminal or command prompt, navigate to the folder containing the `unlock_achievements.py` script, and run the following command:
 
